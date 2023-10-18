@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025937800636",
+    "project_id": "datingapp-7896b",
+    "storage_bucket": "datingapp-7896b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025937800636:android:23e71fa440f324327e3fb9",
+        "android_client_info": {
+          "package_name": "com.example.loveria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025937800636-pp5ehvssu6s245uleogpts0slpgd6rt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRxMIOZ1edSXGct3SmPmRlFVQ4JZ--bnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025937800636-pp5ehvssu6s245uleogpts0slpgd6rt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
